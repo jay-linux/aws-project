@@ -8,3 +8,6 @@ for x in range(10,100):
 
 for y in range(100):
     print(y)
+
+for z in range(200):
+    print(z)
